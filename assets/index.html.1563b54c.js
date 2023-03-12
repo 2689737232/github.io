@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-e8a29ab4","path":"/npm-d/","title":"npm \u76F8\u5173","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[{"level":2,"title":"npm workspace","slug":"npm-workspace","children":[]}],"git":{},"filePathRelative":"npm-d/index.md"}');export{e as data};
